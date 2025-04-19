@@ -1,17 +1,3 @@
-// const express = require("express");
-// const router = express.Router();
-// const Order = require("../models/Order");
-
-// router.post("/", async (req, res) => {
-//   const order = new Order({ items: req.body.items });
-//   await order.save();
-//   res.json({ message: "Order placed" });
-// });
-
-// module.exports = router;
-
-
-
 const express = require("express");
 const Order = require("../models/Order");
 

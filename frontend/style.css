@@ -11,57 +11,6 @@ h1, h2 {
   color: #2c3e50;
 }
 
-/* .product-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 20px;
-  padding: 20px;
-}
-
-.product {
-  background-color: #fff;
-  border-radius: 12px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-  padding: 15px;
-  text-align: center;
-  transition: transform 0.2s ease;
-}
-.product:hover {
-  transform: scale(1.03);
-}
-
-.product img {
-  width: 100%;
-  height: 150px;
-  object-fit: cover;
-  border-radius: 8px;
-}
-
-button {
-  margin-top: 10px;
-  padding: 8px 16px;
-  background-color: #27ae60;
-  color: white;
-  border: none;
-  border-radius: 6px;
-  cursor: pointer;
-}
-button:hover {
-  background-color: #219150;
-}
-
-#cart {
-  list-style: none;
-  padding: 0;
-  max-width: 500px;
-  margin: 0 auto 20px auto;
-}
-#cart li {
-  padding: 8px;
-  border-bottom: 1px solid #ddd;
-} */
-
-/* General Styles */
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 20px;
